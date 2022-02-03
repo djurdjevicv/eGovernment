@@ -1,0 +1,4 @@
+123456;Vladimir;Djurdjevic;dovla;radnik
+654321;Marko;Rasic;mare;pacijent
+100000;Petar;Petrovic;pera;pacijent
+123321;Milos;Milosevic;misa;pacijent
